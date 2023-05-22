@@ -8,7 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\" />
+    <Page Remove="Views\DetailChartPage.xaml" />
+    <Page Remove="Views\SettingPage.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Utilities\" />
   </ItemGroup>
 

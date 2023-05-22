@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MvvmHelpers;
-namespace YuanDa_homwork.Viewmodels
+namespace YuanDaHomeworkApplication.Viewmodels
 {
     internal class SettingViewModel : BaseViewModel
     {

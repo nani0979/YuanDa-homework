@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace YuanDa_homwork.Models
+namespace YuanDaHomeworkApplication.Models
 {
     internal class Stock : INotifyPropertyChanged
     {

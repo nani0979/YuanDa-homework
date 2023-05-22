@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MvvmHelpers;
-using YuanDa_homwork.Models;
+using YuanDaHomeworkApplication.Models;
 
-namespace YuanDa_homwork.Viewmodels
+namespace YuanDaHomeworkApplication.Viewmodels
 {
     internal class DetailChartViewModel : BaseViewModel
     {
