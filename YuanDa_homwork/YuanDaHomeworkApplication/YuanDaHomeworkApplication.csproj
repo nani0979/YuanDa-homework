@@ -13,11 +13,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Utilities\" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
+    <Folder Include="Modules\" />
+    <Folder Include="Views\" />
   </ItemGroup>
 
 </Project>
